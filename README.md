@@ -7,15 +7,18 @@ Written in Python 3.5
 if (true) {
  //do something
 } else {
+ //something else
 }
 ```
 ##Changed file:
 ```cpp
-if (true) {
+if (true) 
+{
  //do something
 } 
 else 
 {
+ //something else
 }
 
 ```
