@@ -4,9 +4,9 @@ Change the brace style from the end of the line to next line
 Written in Python 3.5
 
 ##File structure
-### BraceChangeStyle.py --- Usage: BraceChangeStyle.py src.cpp
-### main.java --- the original source file
-### main_bs.java ---the changed source file
+#### BraceChangeStyle.py --- Usage: BraceChangeStyle.py src.cpp
+#### main.java --- the original source file
+#### main_bs.java ---the changed source file
 
 
 ##Original file:
